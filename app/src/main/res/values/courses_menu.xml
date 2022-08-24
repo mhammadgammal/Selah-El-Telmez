@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="courses_array">
+        <item>select Course…</item>
+        <item>AI</item>
+        <item>Archi</item>
+        <item>DB</item>
+        <item>DS</item>
+        <item>LA</item>
+        <item>Logic</item>
+        <item>OR</item>
+        <item>OOP</item>
+        <item>stat</item>
+    </string-array>
+</resources>

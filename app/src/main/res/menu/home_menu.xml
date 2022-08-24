@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/more" android:title="more" app:showAsAction="never">
+        <menu>
+            <item android:id="@+id/about_Us" android:title="About Us" app:showAsAction="never"/>
+            <item android:id="@+id/check_For_Update" android:title="Check For Update" app:showAsAction="never"/>
+        </menu>
+    </item>
+    <item android:id="@+id/logout" android:title="logout" app:showAsAction="never"/>
+</menu>
